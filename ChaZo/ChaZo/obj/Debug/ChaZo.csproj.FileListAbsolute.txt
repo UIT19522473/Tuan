@@ -1,0 +1,10 @@
+C:\Users\tuank\Desktop\DesktopC\ChaZo\ChaZo\bin\Debug\ChaZo.exe.config
+C:\Users\tuank\Desktop\DesktopC\ChaZo\ChaZo\bin\Debug\ChaZo.exe
+C:\Users\tuank\Desktop\DesktopC\ChaZo\ChaZo\bin\Debug\ChaZo.pdb
+C:\Users\tuank\Desktop\DesktopC\ChaZo\ChaZo\obj\Debug\ChaZo.csprojAssemblyReference.cache
+C:\Users\tuank\Desktop\DesktopC\ChaZo\ChaZo\obj\Debug\ChaZo.Form1.resources
+C:\Users\tuank\Desktop\DesktopC\ChaZo\ChaZo\obj\Debug\ChaZo.Properties.Resources.resources
+C:\Users\tuank\Desktop\DesktopC\ChaZo\ChaZo\obj\Debug\ChaZo.csproj.GenerateResource.cache
+C:\Users\tuank\Desktop\DesktopC\ChaZo\ChaZo\obj\Debug\ChaZo.csproj.CoreCompileInputs.cache
+C:\Users\tuank\Desktop\DesktopC\ChaZo\ChaZo\obj\Debug\ChaZo.exe
+C:\Users\tuank\Desktop\DesktopC\ChaZo\ChaZo\obj\Debug\ChaZo.pdb
